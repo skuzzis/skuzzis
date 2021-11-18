@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SCYTE.ro](https://scyte.ro)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **nothing**
 
 - 💬 Ask me about **Java, VueJS, PHP**
 

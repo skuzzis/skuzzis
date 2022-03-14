@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [SCYTE.ro](https://scyte.ro)
 
-- 🌱 I’m currently learning **Golang**
-
 - 💬 Ask me about **Java, VueJS, PHP, ReactJS, TypeScript**
 
 - 📫 How to reach me **andreieurt@gmail.com** / **contact@skuzzi.ro** / **skuzzi@scyte.ro**

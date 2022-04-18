@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, VueJS, PHP, ReactJS, TypeScript**
 
-- 📫 How to reach me **andreieurt@gmail.com** / **contact@skuzzi.ro** / **skuzzi@scyte.ro**
+- 📫 How to reach me **andreieurt@gmail.com** / **contact@skuzzi.ro** / **skuzzi@scyte.ro** / **no-reply@skuzzi.ro** / **vision@scyte.ro**
 
 - ⚡ Fun fact **Those who are laughing at me, they also respect me.**
 

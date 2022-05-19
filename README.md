@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">I'm 16 years old and I'm studying Computer Science. Also, I always love to help people.</h3>
+<h3 align="center">I always love to help people.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skuzzis&label=Profile%20views&color=0e75b6&style=flat" alt="skuzzis" /> </p>
 

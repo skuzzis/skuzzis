@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SCYTE.ro](https://scyte.ro)
 
-- 💬 Ask me about **Java, VueJS, PHP, ReactJS, TypeScript**
+- 💬 Ask me about **Java, VueJS, PHP, ReactJS, TypeScript, GoLang**
 
 - 📫 How to reach me **andreieurt@gmail.com** / **contact@skuzzi.ro** / **skuzzi@scyte.ro** / **no-reply@skuzzi.ro** / **vision@scyte.ro**
 

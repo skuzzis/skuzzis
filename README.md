@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skuzzis" alt="skuzzis" /></a> </p>
 
-- 🔭 I’m currently working on [SCYTE.ro](https://scyte.ro)
-
 - 💬 Ask me about **Java, VueJS, PHP, ReactJS, TypeScript, GoLang**
 
-- 📫 How to reach me **andreieurt@gmail.com** / **contact@skuzzi.ro** / **skuzzi@scyte.ro** / **no-reply@skuzzi.ro** / **vision@scyte.ro**
+- 📫 How to reach me **contact@skuzzi.ro**
 
 - ⚡ Fun fact **Those who are laughing at me, they also respect me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/skuzzi_seby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skuzzi_seby" height="30" width="40" /></a>
+<a href="https://instagram.com/skuzzis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skuzzi_seby" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

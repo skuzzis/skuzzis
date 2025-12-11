@@ -24,7 +24,7 @@
         </a>
       </div>
     </picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skuzzis&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="150" alt="languages graph" />
+    <img src="https://github-stats.skuzzi.ro/api/top-langs?username=skuzzis&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="150" alt="languages graph" />
 </picture>
 
 ## What I use

@@ -9,22 +9,19 @@
 <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 
 <picture>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=exx9wcgfv742u1rt8g1atoq9x&count=5&unique=true" alt="Spotify recently played" align="left" />
-    <picture align="center">
-      <img src="https://count.getloli.com/@:skuzzis?theme=capoo-2&padding=7&scale=1&align=center&pixelated=0&darkmode=auto" />
-      <div align="left">
-        <a href="https://swiftlys2.net/discord" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-        </a>
-        <a href="mailto:contact@skuzzi.ro" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-        </a>
-        <a href="https://instagram.com/skuzzis" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-        </a>
-      </div>
-    </picture>
-    <img src="https://github-stats.skuzzi.ro/api/top-langs?username=skuzzis&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://count.getloli.com/@:skuzzis?theme=capoo-2&padding=7&scale=1&align=center&pixelated=0&darkmode=auto" />
+  <img src="https://github-stats.skuzzi.ro/api/top-langs?username=skuzzis&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="150" alt="languages graph" />
+  <div align="left">
+    <a href="https://swiftlys2.net/discord" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    </a>
+    <a href="mailto:contact@skuzzi.ro" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    </a>
+    <a href="https://instagram.com/skuzzis" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    </a>
+  </div>
 </picture>
 
 ## What I use

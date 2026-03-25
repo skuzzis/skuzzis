@@ -10,18 +10,7 @@
 
 <picture>
   <img src="https://count.getloli.com/@:skuzzis?theme=capoo-2&padding=7&scale=1&align=center&pixelated=0&darkmode=auto" />
-  <img src="https://github-stats.skuzzi.ro/api/top-langs?username=skuzzis&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="150" alt="languages graph" />
-  <div align="left">
-    <a href="https://swiftlys2.net/discord" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-    </a>
-    <a href="mailto:contact@skuzzi.ro" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-    </a>
-    <a href="https://instagram.com/skuzzis" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-    </a>
-  </div>
+  <img src="./profile/stats.svg" height="150" alt="languages graph" />
 </picture>
 
 ## What I use
